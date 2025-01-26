@@ -110,10 +110,10 @@ If you're looking for a skilled and experienced developer who can help you bring
 
 <h3>🤝🏻 &nbsp;Connect with Me</h3>
 
-<!-- <p align="center">
-<a href="https://sami-mernstack-portfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-samiullah-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/sami-samiullah-b190b5238/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sami%20Samiullah-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/sami_samiullah51728/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samiullah__-blue?style=flat-square&logo=instagram"></a>
+<p align="center">
+<!-- <a href="https://sami-mernstack-portfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-samiullah-blue?style=flat-square&logo=google-chrome"></a> -->
+<a href="https://www.linkedin.com/in/firdous-ahmad-979057130/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firdous-ahmad-979057130/" height="30" width="40" /></a>
+<!-- <a href="https://www.instagram.com/sami_samiullah51728/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samiullah__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:samii51728@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samii51728@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://github.com/samiullah51"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-samiullah51-blue?style=flat-square&logo=github"></a>
 </p> -->
