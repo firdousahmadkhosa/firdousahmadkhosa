@@ -30,7 +30,6 @@
 Check out my GitHub profile to see some of my code samples and personal projects: GitHub Profile. You can also visit my portfolio site to see some of my past work and get in touch with me: Portfolio Site.
 
 If you're looking for a skilled and experienced developer who can help you bring your web application ideas to life, please don't hesitate to reach out!
-
 </p>
 
 ---
@@ -113,9 +112,10 @@ If you're looking for a skilled and experienced developer who can help you bring
 
 <p>
 <!-- <a href="https://sami-mernstack-portfolio.vercel.app/"><img alt="Website" src="https://img.shields.io/badge/Portfolio-samiullah-blue?style=flat-square&logo=google-chrome"></a> -->
-<a href="https://www.linkedin.com/in/firdous-ahmad-979057130/" target="blank"><img  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firdous-ahmad-979057130/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/firdous-ahmad-979057130/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/firdous-ahmad-979057130/" height="30" width="40" /></a>
 <!-- <a href="https://www.instagram.com/sami_samiullah51728/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-samiullah__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:samii51728@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-samii51728@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <a href="https://github.com/samiullah51"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-samiullah51-blue?style=flat-square&logo=github"></a> -->
 </p>
+
 ⭐️ From [firdousahmadkhosa](https://github.com/firdousahmadkhosa)
