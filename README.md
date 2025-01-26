@@ -1,6 +1,6 @@
 <img src="https://github.com/firdousahmadkhosa/firdousahmadkhosa/blob/main/beyondbackground.jpg?raw=true" width="100%" height="260">
 
-<h3>👨🏻‍💻 &nbsp;Experienced +4 years MERN, PERN, Stack Developer, SaaS Base, PaaS Base, LaaS Base and Cloud Solution Architect🚀</h3>
+<h3>👨🏻‍💻 &nbsp;Experienced +4 years MERN, PERN, Stack Developer, SaaS Base, PaaS Base, LaaS Base Engineer and Cloud Solution Architect🚀</h3>
 
 <p>
 💼 Full-stack developer proficient in MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks.
