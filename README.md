@@ -1,10 +1,35 @@
-<img src="https://github.com/firdousahmadkhosa/Embed-Chat/blob/main/Untitled-1-02.jpg?raw=true" width="100%" height="260">
-<!-- https://github.com/firdousahmadkhosa/firdousahmadkhosa.git  beyondbackground.jpg-->
+<img src="https://github.com/firdousahmadkhosa/firdousahmadkhosa/blob/main/beyondbackground.jpg?raw=true" width="100%" height="260">
 
-<h3>👨🏻‍💻 &nbsp;Skilled Full Stack Developer</h3>
+<h3>👨🏻‍💻 &nbsp;Experienced +4 years MERN, PERN, Stack Developer, SaaS Base, PaaS Base, LaaS Base and Cloud Solution Architect🚀</h3>
 
 <p>
-A highly proficient Full Stack Developer with expertise in building scalable web applications and delivering innovative solutions. Passionate about quality, efficiency, and driving success for teams and projects.
+💼 Full-stack developer proficient in MERN (MongoDB, Express.js, React, Node.js) and PERN (PostgreSQL, Express.js, React, Node.js) stacks.
+
+🐍 Skilled in Javascript NodeJs framework, with expertise in building robust web applications.
+
+🛠️ Proficient in frontend technologies including HTML5, CSS3, JavaScript, React Query, Material UI, and Tailwind CSS.
+
+☁️ Experienced in AWS services such as EC2, S3, Elastic Beanstalk, Serverless Lambda, and CodeCommit for scalable cloud solutions.
+
+🔧 Strong understanding of backend development, including writing cron jobs in Node.js, handling Firebase messages live, and working with RESTful APIs and GraphQL for flexible data querying.
+
+⚡ Experienced with FastAPI for high-performance APIs and Swagger for API documentation.
+
+🛢️ Knowledgeable in Postgresql, MongoDB, MySQL, and SQLite for efficient database management.
+
+💡 Passionate about creating efficient and scalable solutions to complex problems.
+
+💬 Excellent communicator and team player, capable of collaborating effectively in cross-functional teams.
+
+💼 Available for freelance opportunities and consulting projects.
+
+🔍 Additional Skills:
+
+🚀 Experience with Nest.js, Express, Apollo GraphQL framework for building efficient server-side applications. 📦 Proficient in Sequlize, Prisma, and Mongoose ORM for object-relational mapping in TypeScript. 💻 Expertise in TypeScript for writing scalable and maintainable codebases. 📊 Data visualization using tools like D3.js and Chart.js. 📱 Mobile app development with React Native. 📝 Experience with version control systems like Git and GitHub. 🧰 Familiarity with containerization and orchestration tools like Docker and Kubernetes.
+
+Check out my GitHub profile to see some of my code samples and personal projects: GitHub Profile. You can also visit my portfolio site to see some of my past work and get in touch with me: Portfolio Site.
+
+If you're looking for a skilled and experienced developer who can help you bring your web application ideas to life, please don't hesitate to reach out!
 </p>
 
 ---
