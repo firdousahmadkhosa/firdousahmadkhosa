@@ -1,4 +1,4 @@
-<img src="https://github.com/firdousahmadkhosa/firdousahmadkhosa/blob/main/beyondbackground.jpg?raw=true" width="100%" height="260">
+<img src="https://github.com/firdousahmadkhosa/firdousahmadkhosa/blob/main/background%20logo.jpeg?raw=true" width="100%" height="260">
 
 <h3>👨🏻‍💻 &nbsp;Experienced +4 years MERN, PERN, Stack Developer, SaaS Base, PaaS Base, LaaS Base Engineer and Cloud Solution Architect🚀</h3>
 
